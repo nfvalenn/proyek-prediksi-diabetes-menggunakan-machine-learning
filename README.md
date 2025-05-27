@@ -15,7 +15,7 @@ Proyek ini membangun model ML untuk memprediksi kemungkinan seseorang mengidap d
 [Klik untuk buka demo Streamlit](https://proyek-prediksi-diabetes-menggunakan-machine-learning-z38cwhup.streamlit.app/)
 
 ## 🖼️ Screenshot
-![preview](./screenshot.png)
+![preview](https://github.com/nfvalenn/proyek-prediksi-diabetes-menggunakan-machine-learning/blob/main/doc/preview.png)
 
 ## 📁 Cara Menjalankan
 ```bash
