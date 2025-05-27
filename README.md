@@ -4,7 +4,7 @@ Proyek ini membangun model ML untuk memprediksi kemungkinan seseorang mengidap d
 
 ## 🔧 Tools
 - Python, Scikit-learn, Pandas, Streamlit
-- Dataset: Pima Indian Diabetes
+- Dataset: [Pima Indian Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## 📊 Model yang Digunakan
 - Logistic Regression
